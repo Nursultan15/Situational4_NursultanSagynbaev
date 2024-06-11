@@ -11,7 +11,6 @@ Overview: We'll explore two essential foundations of Python programming in this 
 
 Algorithms: The foundation of computer science, algorithms allow us to effectively address difficult issues. We'll look at a variety of algorithms, such as recursive, sorting, and searching algorithms.
 
-Lambda functions: Also referred to as anonymous functions, lambda functions are an effective tool for quickly and easily constructing functions. We'll examine lambda functions' grammar, application, and interaction with higher-order.
 
 
 Goals of the Presentation:
